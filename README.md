@@ -2,7 +2,7 @@
 
 Welcome! I'm Michael, Computer Engineering student at University of Toronto. I'm a huge math and programming enthusiast, and is currently exploring Quant Finance.
 
-🔭 I’m currently guiding quantitative research projects and training teams for global trading competitions at St. George Capital, University of Toronto's first student-run investment fund utilizing quantitative strategies.
+🔭 I’m currently guiding quantitative research projects and training teams for global trading competitions at St. George Capital, University of Toronto's first student-run investment fund utilizing quantitative strategies.  
 💻 I'm building an open-sourced cryptocurrency routing platform under the supervision of Prof. Michael Stumm (founder of OANDA), bringing complete transparency to crypto trading.
 
 Always happy to chat!
