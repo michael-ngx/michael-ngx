@@ -1,26 +1,11 @@
-### Hi there 👋
+### Welcome!
 
-Welcome! I'm Michael, final year Computer Engineering student at University of Toronto. I'm a huge math and programming enthusiast, and I'm currently focusing on problems in the Quant Finance field.
+👋 I'm Michael, a math and programming enthusiast. I enjoy solving highly complex problems across various fields, and I always learn quickly to do so.
 
-📚 I really enjoy studying. I self-taught myself programming and everything related to Quant Finance. These helped me receive Software Engineering Intern offers from AWS, TikTok, Squarepoint, Shopify, Robinhood, etc., along with my latest internship as a Quantitative Equity Analyst Intern at Connor, Clark & Lunn Investment Management - Canada's largest private asset manager with \$50B AUM - where I received return offer.
+🎯 I began my career in software engineering across start-up environments, which fueled my passion for dynamic, high-pressure settings. My focus then shifted towards trading for its meritocratic nature, where intellectual rigor is rewarded.
 
-🔭 I’m supervising quantitative research projects and training teams for global trading competitions at St. George Capital, University of Toronto's first student-run investment fund utilizing quantitative strategies.
+💻 I'm currently building an open-sourced cryptocurrency routing system under supervision of Prof. Michael Stumm (co-founder of OANDA). The project aims to bring complete transparency to crypto trading while ensuring optimal execution at high frequency. The platform is [LIVE!](https://496cryptorouter.vercel.app/)
 
-💻 I'm building an open-sourced cryptocurrency routing platform under the supervision of Prof. Michael Stumm (co-founder of OANDA), bringing complete transparency to crypto trading.
+📚 On the side, I'm the President and Quant Research Head at St. George Capital, UofT's first student-run investment fund utilizing quantitative strategies. We have been working on very interesting research projects, and my wish is to make this group become Canada's target quant finance talent pool.
 
-Always happy to chat!
-
-<!--
-**michael-ngx/michael-ngx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I never stop learning. Always happy to chat!
